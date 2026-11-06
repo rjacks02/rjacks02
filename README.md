@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090714,50:6D28D9,100:67E8F9&height=190&section=header&text=Rebecca%20Jackson&fontSize=42&fontColor=E9E8F5&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20and%20Software%20Engineer%20%7C%20CS%20and%20Math%20%40%20Villanova&descAlignY=56&descSize=17&descColor=C4B5FD" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090714,50:6D28D9,100:67E8F9&height=190&section=header&text=Rebecca%20Jackson&fontSize=42&fontColor=E9E8F5&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20CS%20and%20Math%20%40%20Villanova&descAlignY=56&descSize=17&descColor=C4B5FD" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=MS+Computer+Science+%40+Villanova+%E2%80%9427;Graduate+Assistant+%2B+Researcher;Open+to+Full-Time+Data+Analytics+Roles+%E2%80%94+June+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=MS+Computer+Science+%40+Villanova+(May+2027);Graduate+Assistant+%2B+Researcher;Open+to+Full-Time+Data+Analytics+Roles+%7C+June+2027" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/rjacks02.github.io-0D0B20?style=for-the-badge&logo=googlechrome&logoColor=67E8F9)](https://rjacks02.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0B20?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/rjacks02)
-[![Email](https://img.shields.io/badge/Email-0D0B20?style=for-the-badge&logo=maildotru&logoColor=F472B6)](mailto:rebeccajackson@comcast.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0B20?style=for-the-badge&logoColor=A78BFA)](https://www.linkedin.com/in/rjacks02)
+[![Email](https://img.shields.io/badge/Email-0D0B20?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:rebeccajackson@comcast.net)
 [![Resume](https://img.shields.io/badge/Resume-0D0B20?style=for-the-badge&logo=readdotcv&logoColor=F2C879)](https://rjacks02.github.io/assets/Resume.pdf)
 
 </div>
 
 ---
 
-### ✨ About
+### About Me
 
-- 🎓 Finishing an **MS in Computer Science** at Villanova University (May 2027), alongside a **BS in Computer Science** (Jul 2026) and **BS in Mathematics** (May 2026) — 4.0 grad GPA, 3.99 undergrad
-- 🧪 **Graduate Assistant** in Villanova's CS Department — 20 hrs/week of teaching & research while studying full-time
-- 💼 Just wrapped a **Business Insights & Analytics internship at Wawa**, using SQL (Snowflake), Tableau, and Excel to build ML-based sales forecasting models
-- 🔬 Undergraduate researcher in **Sustainable Human-Computer Interaction (SHCI)** since freshman year — published in *Mathematics Magazine* and the *NordiCHI 2024 Proceedings*
-- 📝 Building **Carbon Calculus™** — a React CO₂/NPV tool for sustainability lifecycle-cost analysis, funded by Villanova's SICJS initiative (public site coming soon)
-- 👩‍💻 President of **Girls Who Code** and the **Villanova Programming Team**; founder of the Philadelphia **Aspirations in Computing** affiliate
-- 📍 West Chester, PA · open to full-time Data Analytics roles starting June 2027
+Hi, I'm Rebecca! I finished my BS in Computer Science and Mathematics at Villanova and I'm now in the MS in Computer Science program, graduating in May 2027. I'm a Graduate Assistant in the CS department, where I teach R sessions for Statistics in Computing, TA Agentic AI, and keep working on research.
+
+This past summer I interned on Wawa's Business Insights & Analytics team. I built LightGBM models to forecast weekly store sales, wrote complex SQL queries in Snowflake, and made Tableau dashboards for leadership. That internship solidified my interest in data analytics.
+
+Since my freshman year of university, I've participated in research in sustainable HCI and applied math, which led to papers at NordiCHI 2024 and in *Mathematics Magazine*. Outside of class I'm president of the Villanova Programming Team and Girls Who Code.
+
+I'm based in West Chester, PA (willing to relocate), and looking for full-time data analytics roles starting June 2027!
 
 ---
 
@@ -32,31 +32,71 @@
 <div align="center">
 
 **Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-0D0B20?style=for-the-badge&logo=python&logoColor=A78BFA)
-![SQL](https://img.shields.io/badge/SQL-0D0B20?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
-![Java](https://img.shields.io/badge/Java-0D0B20?style=for-the-badge&logo=openjdk&logoColor=F472B6)
-![C](https://img.shields.io/badge/C-0D0B20?style=for-the-badge&logo=c&logoColor=F2C879)
-![C++](https://img.shields.io/badge/C++-0D0B20?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
-![R](https://img.shields.io/badge/R-0D0B20?style=for-the-badge&logo=r&logoColor=67E8F9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0B20?style=for-the-badge&logo=javascript&logoColor=F2C879)
-![HTML5](https://img.shields.io/badge/HTML5-0D0B20?style=for-the-badge&logo=html5&logoColor=F472B6)
-![CSS3](https://img.shields.io/badge/CSS3-0D0B20?style=for-the-badge&logo=css3&logoColor=A78BFA)
 
-**Frameworks & Tools**
-<br/>
-![React](https://img.shields.io/badge/React-0D0B20?style=for-the-badge&logo=react&logoColor=67E8F9)
-![React Native](https://img.shields.io/badge/React_Native-0D0B20?style=for-the-badge&logo=react&logoColor=F472B6)
-![Vite](https://img.shields.io/badge/Vite-0D0B20?style=for-the-badge&logo=vite&logoColor=F2C879)
-![Electron](https://img.shields.io/badge/Electron-0D0B20?style=for-the-badge&logo=electron&logoColor=A78BFA)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D0B20?style=for-the-badge&logo=pytorch&logoColor=67E8F9)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0D0B20?style=for-the-badge&logo=scikitlearn&logoColor=F472B6)
-![Pandas](https://img.shields.io/badge/Pandas-0D0B20?style=for-the-badge&logo=pandas&logoColor=F2C879)
-![NumPy](https://img.shields.io/badge/NumPy-0D0B20?style=for-the-badge&logo=numpy&logoColor=A78BFA)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D0B20?style=for-the-badge&logo=jupyter&logoColor=67E8F9)
-![Tableau](https://img.shields.io/badge/Tableau-0D0B20?style=for-the-badge&logo=tableau&logoColor=F472B6)
-![Snowflake](https://img.shields.io/badge/Snowflake-0D0B20?style=for-the-badge&logo=snowflake&logoColor=F2C879)
-![Git](https://img.shields.io/badge/Git-0D0B20?style=for-the-badge&logo=git&logoColor=A78BFA)
+<table>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/python.svg?color=%23A78BFA&height=36" height="36" alt="Python" /><br/><sub>Python</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%2367E8F9&height=36" height="36" alt="SQL" /><br/><sub>SQL</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/r.svg?color=%23F472B6&height=36" height="36" alt="R" /><br/><sub>R</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23F2C879&height=36" height="36" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/typescript.svg?color=%23A78BFA&height=36" height="36" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/html5.svg?color=%2367E8F9&height=36" height="36" alt="HTML" /><br/><sub>HTML</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/css3.svg?color=%23F472B6&height=36" height="36" alt="CSS" /><br/><sub>CSS</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23F2C879&height=36" height="36" alt="Java" /><br/><sub>Java</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/c.svg?color=%23A78BFA&height=36" height="36" alt="C" /><br/><sub>C</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2367E8F9&height=36" height="36" alt="C++" /><br/><sub>C++</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/mdi/lambda.svg?color=%23F472B6&height=36" height="36" alt="SML" /><br/><sub>SML</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/latex.svg?color=%23F2C879&height=36" height="36" alt="LaTeX" /><br/><sub>LaTeX</sub></td>
+</tr>
+</table>
+
+**Data &amp; ML**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/pandas.svg?color=%23A78BFA&height=36" height="36" alt="Pandas" /><br/><sub>Pandas</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/numpy.svg?color=%2367E8F9&height=36" height="36" alt="NumPy" /><br/><sub>NumPy</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/mdi/chart-scatter-plot.svg?color=%23F472B6&height=36" height="36" alt="Matplotlib" /><br/><sub>Matplotlib</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/mdi/chart-bell-curve.svg?color=%23F2C879&height=36" height="36" alt="Seaborn" /><br/><sub>Seaborn</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%23A78BFA&height=36" height="36" alt="scikit-learn" /><br/><sub>scikit-learn</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/mdi/file-tree.svg?color=%2367E8F9&height=36" height="36" alt="LightGBM" /><br/><sub>LightGBM</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/pytorch.svg?color=%23F472B6&height=36" height="36" alt="PyTorch" /><br/><sub>PyTorch</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/jupyter.svg?color=%23F2C879&height=36" height="36" alt="Jupyter" /><br/><sub>Jupyter</sub></td>
+</tr>
+</table>
+
+**Analytics &amp; BI**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/tableau.svg?color=%23A78BFA&height=36" height="36" alt="Tableau" /><br/><sub>Tableau</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/snowflake.svg?color=%2367E8F9&height=36" height="36" alt="Snowflake" /><br/><sub>Snowflake</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/microsoftexcel.svg?color=%23F472B6&height=36" height="36" alt="Excel" /><br/><sub>Excel</sub></td>
+</tr>
+</table>
+
+**Web &amp; Tools**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/react.svg?color=%23F2C879&height=36" height="36" alt="React" /><br/><sub>React</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%23A78BFA&height=36" height="36" alt="Recharts" /><br/><sub>Recharts</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/plotly.svg?color=%2367E8F9&height=36" height="36" alt="Plotly.js" /><br/><sub>Plotly.js</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/vite.svg?color=%23F472B6&height=36" height="36" alt="Vite" /><br/><sub>Vite</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/react.svg?color=%23F2C879&height=36" height="36" alt="React Native" /><br/><sub>React Native</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/electron.svg?color=%23A78BFA&height=36" height="36" alt="Electron" /><br/><sub>Electron</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/supabase.svg?color=%2367E8F9&height=36" height="36" alt="Supabase" /><br/><sub>Supabase</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23F472B6&height=36" height="36" alt="Vercel" /><br/><sub>Vercel</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/git.svg?color=%23F2C879&height=36" height="36" alt="Git" /><br/><sub>Git</sub></td>
+<td align="center" width="96"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23A78BFA&height=36" height="36" alt="GitHub" /><br/><sub>GitHub</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -68,16 +108,16 @@
 <tr>
 <td width="50%" valign="top">
 
-**Carbon Calculus™** <sub>(public site coming soon)</sub>
+**[Carbon Calculus](https://carboncalculus.com)**
 <br/>
-React + Recharts CO₂/NPV calculator for sustainability lifecycle-cost analysis, built with a Villanova Sustainable Engineering PhD student — the first undergrad project funded by Villanova's SICJS initiative.
+React + Recharts CO₂/NPV calculator for sustainability lifecycle-cost analysis, built with a Villanova Sustainable Engineering PhD student. It's the first undergrad project funded by Villanova's SICJS initiative.
 
 </td>
 <td width="50%" valign="top">
 
 **[ASL Classifier](https://github.com/rjacks02/ASL-Classification)**
 <br/>
-CNN trained with PyTorch to classify 36 ASL letters and numbers at ~95% accuracy, documented end-to-end from preprocessing to evaluation.
+CNN trained with PyTorch to classify 36 ASL letters and numbers at ~95% test accuracy, with per-class error analysis and a reproducible pipeline from preprocessing to evaluation.
 
 </td>
 </tr>
